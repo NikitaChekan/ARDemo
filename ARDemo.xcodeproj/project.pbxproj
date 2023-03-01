@@ -13,6 +13,7 @@
 		DA1CD55529AE3E9900A79E24 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA1CD55329AE3E9900A79E24 /* Main.storyboard */; };
 		DA1CD55729AE3E9B00A79E24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA1CD55629AE3E9B00A79E24 /* Assets.xcassets */; };
 		DA1CD55A29AE3E9B00A79E24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA1CD55829AE3E9B00A79E24 /* LaunchScreen.storyboard */; };
+		DA9E619929AF750A004886E8 /* ColorBoxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA9E619829AF750A004886E8 /* ColorBoxViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		DA1CD55429AE3E9900A79E24 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DA1CD55629AE3E9B00A79E24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA1CD55929AE3E9B00A79E24 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DA9E619829AF750A004886E8 /* ColorBoxViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBoxViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				DA1CD54D29AE3E9900A79E24 /* AppDelegate.swift */,
 				DA1CD54F29AE3E9900A79E24 /* art.scnassets */,
 				DA1CD55129AE3E9900A79E24 /* ViewController.swift */,
+				DA9E619829AF750A004886E8 /* ColorBoxViewController.swift */,
 				DA1CD55329AE3E9900A79E24 /* Main.storyboard */,
 				DA1CD55629AE3E9B00A79E24 /* Assets.xcassets */,
 				DA1CD55829AE3E9B00A79E24 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA9E619929AF750A004886E8 /* ColorBoxViewController.swift in Sources */,
 				DA1CD55229AE3E9900A79E24 /* ViewController.swift in Sources */,
 				DA1CD54E29AE3E9900A79E24 /* AppDelegate.swift in Sources */,
 			);
